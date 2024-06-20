@@ -54,6 +54,10 @@ function ToDoList() {
     }
   }
 
+  function editTask(){
+
+  }
+
   //extra that I want to implement
   //when user wants to change the name of the task
   function editTask() {}
@@ -121,17 +125,7 @@ function ToDoList() {
             >
               Down
             </button>
-            <button
-              type="button"
-              className="btn btn-outline-warning"
-              // with regards to a callback, when passed in an argument, the function is executed right away.
-              //To avoid this, we use an arrow function
-              onClick={() => {
-                
-              }}
-            >
-              Edit
-            </button>
+
           </li>
         ))}
       </ol>
