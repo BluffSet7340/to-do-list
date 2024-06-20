@@ -3,3 +3,30 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.to-do-list{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 100px;
+}
+
+/* targets all the buttons */
+/* couldn't target buttons, so targettting .btn instead */
+.btn{
+    font-size: 1.7rem;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.btn-info{
+    /* color: white; */
+}
+
+.btn-danger, .btn-info{
+    cursor: pointer;
+}
+
+h1{
+    font-size: 4rem;
+}
+
