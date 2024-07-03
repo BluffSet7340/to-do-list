@@ -9,3 +9,8 @@ Okay so I'm done with the project and it was a proper good learning experience. 
 I definitely will continue on creating more React.js projects to gain a deeper understanding of React and hopefully create some of my own projects and ideas as well. 
 
 Created using React.js
+
+
+# Sample Runs
+
+[https://snipboard.io/qKtZxj.jpg]
