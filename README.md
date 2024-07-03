@@ -13,4 +13,4 @@ Created using React.js
 
 # Sample Runs
 
-[https://snipboard.io/qKtZxj.jpg]
+![Sample 1](https://snipboard.io/qKtZxj.jpg)
